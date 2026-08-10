@@ -1,2 +1,2 @@
-# 240760107069_Manan
+# PDS_SimpliLearn_240760107069
 This is my repository which is consists of my all Codes during this Course.
